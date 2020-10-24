@@ -4,13 +4,22 @@
 
 # 快捷指令
 
+![safari-action](screenshots/safari-action.png)
+![update](screenshots/update.png)
+
 ## 当前版本
-2020.10.24.1
+2020.10.24.2
 
 ## 安装链接
-https://www.icloud.com/shortcuts/7571e554e0ae4c5fa4b2a162d10e1e7c
+https://www.icloud.com/shortcuts/14b0f4414a17414baee92a0be8bcc746
+
+## 更新方式
+在快捷指令中直接点击运行 `网盘助手` 指令来检查更新，如有更新点击好即可跳转到新的快捷指令，添加覆盖原有的即可
 
 ## 历史版本更新
+
+## 2020.10.24.2
+* 支持 检查更新
 
 ## 2020.10.24.1
 * 支持 百度网盘
