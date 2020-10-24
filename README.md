@@ -4,9 +4,12 @@
 
 # 快捷指令
 
-<img src="screenshots/safari-action.png" width="300" height="649" /><img src="screenshots/update.png" width="300" height="649" />
+<img src="screenshots/safari-action.png" width="300" height="649" />
+&nbsp;&nbsp;
+<img src="screenshots/update.png" width="300" height="649" />
 
 ## 当前版本
+
 2020.10.24.2
 
 ## 安装链接
